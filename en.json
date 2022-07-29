@@ -1,4 +1,6 @@
 {
+    "Language Name": "English",
+    "dir": "ltr",
     "Accept": "Accept",
     "Activity": "Activity",
     "Activity has been marked as flagged.": "Activity has been marked as flagged.",
@@ -26,7 +28,6 @@
     "Create a password": "Create a password",
     "Create a username": "Create a username",
     "Delete": "Delete",
-    "dir": "ltr",
     "Done": "Done",
     "Download Removed": "Download Removed",
     "Download successful.": "Download successful.",
@@ -61,7 +62,6 @@
     "Joined group!": "Joined group!",
     "Language": "Language",
     "Language changed": "Language changed",
-    "Language Name": "English",
     "Language Settings": "Language Settings",
     "Last name": "Last name",
     "Last update": "Last update",
